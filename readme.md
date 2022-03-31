@@ -1,5 +1,7 @@
 ### Hi there! 👋
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=misternano&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=misternano&show_icons=true)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=misternano)
 
-[![](https://github.com/misternano/misternano/docs/paypal.svg)](https://paypal.me/nanovirus) ![](https://komarev.com/ghpvc/?username=misternano)
+![](https://komarev.com/ghpvc/?username=misternano)
