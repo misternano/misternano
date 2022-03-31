@@ -1,5 +1,7 @@
 ### Hi there! 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=misternano&show_icons=true&count_private=true) ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=misternano&layout=compact)
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=misternano)" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misternano&layout=compact" /></a>
+
 
 ![](https://komarev.com/ghpvc/?username=misternano)
