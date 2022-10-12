@@ -1,4 +1,4 @@
-[![GitHub Header Banner](./assets/header.png)](https://nanos.club)
+[![GitHub Header Banner](https://nanos.club/assets/preview.png)](https://nanos.club)
 
 <p align="center">
 	<a href="https://twitter.com/fruitynano"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=1DA1F2&color=white" /></a>
